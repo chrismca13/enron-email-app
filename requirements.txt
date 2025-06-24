@@ -7,3 +7,4 @@ sentence-transformers
 pydantic
 boto3
 chromadb
+protobuf>=3.20.1,<5.0.0
