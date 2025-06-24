@@ -6,3 +6,4 @@ langchain-chroma
 sentence-transformers
 pydantic
 boto3
+chromadb
