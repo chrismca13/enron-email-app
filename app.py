@@ -108,7 +108,7 @@ embedding = HuggingFaceEmbeddings()
 chroma_db = Chroma(
     collection_name="vector_store",
     embedding_function=embedding,
-    ersist_directory="./chroma_db"
+    persist_directory="./chroma_db"
 )
 
 retriever = chroma_db.as_retriever()
