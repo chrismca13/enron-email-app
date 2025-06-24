@@ -1,0 +1,1 @@
+streamlit\nlangchain\nlangchain-core\nlangchain-community\nlangchain-aws\nlangchain-chroma\nsentence-transformers\npydantic\nboto3
